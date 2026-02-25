@@ -1,7 +1,7 @@
 {
     "server_name": "op-games",
-    "nice_name": "OP-Games Netzwerk",
-    "direct_ip": "op-games.de",
+    "nice_name": "OP-Games Network",
+    "direct_ip": "op-games.eu",
     "supported_languages": [
         "de",
         "en"
@@ -10,14 +10,14 @@
         "cb": {
             "name": "CityBuild",
             "color": "#54FC54",
-            "command": "/server citybuild-1",
-            "versions": "1.20.4 - 1.21.10"
+            "command": "/server cb",
+            "versions": "1.21.4 - 1.21.11"
         },
         "sb": {
-            "name": "SkyBlock",
+            "name": "SMP",
             "color": "#54FC54",
-            "command": "/server skyblock-1",
-            "versions": "1.20.4 - 1.21.10"
+            "command": "/server smp",
+            "versions": "1.21.4 - 1.21.11"
         }
     },
     "discord": {
